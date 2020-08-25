@@ -1,14 +1,14 @@
 ### Project Name
-What is the name of your project?
+Ombudsman Cloud Care
 
 ### Project Theme
-How would you categorize your project? For example, are you creating an app and/or component, writing documentation, focusing on the community ecosystem, making videos, etc. [Learn how](https://github.com/SFDO-Community-Sprints/Welcome/wiki/SFDO-Community-Sprints-Topic-Overview) this information loops back into Sprint project work!
+Ombudsman Cloud Care (OCC) is an Open Source Commons project and a released package. The GitHub repo for the package is [here](https://github.com/SFDO-Community/OmbudsmanCloudCare). This sprint group/project is for adding to that app by writing documentation, suggesting and building roadmap items, etc.
 
 ### Project Vertical
-How would you define the audience for your project? For example, nonprofits, education, or everyone. [Learn how](https://github.com/SFDO-Community-Sprints/Welcome/wiki/SFDO-Community-Sprints-Topic-Overview) this information loops back into Sprint project work!
+OCC is for use by military ombudsman groups, the volunteers that support military families during deployment.
 
 ### Hub Group Link
-We encourage you to bring this project conversation to the Power of us Hub! Please include a link to your Hub group here so others can find you and continue the conversation later.
+https://powerofus.force.com/s/group/0F91E0000000hq1SAA/community-project-ombudsman-cloud-care
 
 ### Current Project Team
 Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
