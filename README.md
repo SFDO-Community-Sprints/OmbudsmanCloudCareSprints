@@ -18,9 +18,15 @@ Help us give you the thanks you deserve and ensure future contributors know who 
 
 ### Past Project Team Members
 
-Full Name          | Team Role             | Github Username              | Sprint(s)
-------------       | -------------         | -------------                | -------------
-ENTER NAME HERE    | ENTER TEAM ROLE HERE  | ENTER GITHUB USERNAME HERE   | ENTER LOCATION+YEAR HERE
+[Mary Crozier](https://powerofus.force.com/s/profile/0051E00000GYcPYQA1), Founder
+
+[Shelley Bolt](https://powerofus.force.com/s/profile/0051E000003jsuzQAA), Salesforce Admin+Ombudsman Success
+
+[Michael Kolodner](https://powerofus.force.com/s/profile/00580000009bjBJAAY), App Architect
+
+[Katie Bianco Hernandez](https://powerofus.force.com/s/profile/0051E00000GYmx7QAD)
+
+[Nick Lindberg](https://powerofus.force.com/s/profile/00580000006BbyJAAS)
 
 ### Project Vision (Please make this your first task as a team)
 
