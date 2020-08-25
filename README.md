@@ -11,13 +11,6 @@ OCC is for use by military ombudsman groups, the volunteers that support militar
 https://powerofus.force.com/s/group/0F91E0000000hq1SAA/community-project-ombudsman-cloud-care
 
 ### Current Project Team
-Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
-* Team Leader(s): 
-* GitHub Scribe(s): 
-* List of all Contributors:
-
-### Past Project Team Members
-
 [Mary Crozier](https://powerofus.force.com/s/profile/0051E00000GYcPYQA1), Founder
 
 [Shelley Bolt](https://powerofus.force.com/s/profile/0051E000003jsuzQAA), Salesforce Admin+Ombudsman Success
@@ -27,6 +20,10 @@ Help us give you the thanks you deserve and ensure future contributors know who 
 [Katie Bianco Hernandez](https://powerofus.force.com/s/profile/0051E00000GYmx7QAD)
 
 [Nick Lindberg](https://powerofus.force.com/s/profile/00580000006BbyJAAS)
+
+### Past Project Team Members
+
+
 
 ### Project Vision (Please make this your first task as a team)
 
