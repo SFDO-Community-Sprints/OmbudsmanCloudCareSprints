@@ -38,8 +38,13 @@ Having trouble? Salesforce.org staff and your fellow sprinters are here to help!
 
 
 ### Project Resources (It's ok if you'd prefer to type all the things in Google docs, Quip, or your word processor of choice, just please make sure you include links to your work here in Github. We need a source of truth, and for now that's here in GitHub.)
-* Indicate if there are any existing Hub Ideas, or product Issues/Bugs that you're solving for. 
-* Where can we find additional information on your project? Ie. do you have supporting code in another Repo, do you have documentation in Google, your repo's Wiki, etc.? Be sure to include (or at least links to) all supporting material here. If it's not in your project Repo, it will get lost.
+[OCC Documentation Table of Contents](https://occadminhandbook.bit.ai/docs/view/K9FMWpJOOUACb8T2)
+
+[Handbook](https://occadminhandbook.bit.ai/docs/view/zv0wSuubp84Vnzsq)
+
+[Installation Guide](https://ombudcare.com/installationguide)
+
+[Presentation/White Paper](https://drive.google.com/file/d/1J1ZFsZ2pZaGdE3lKT_NPUxL1KmibO0h1/view?usp=sharing)
 
 ### Project Team Accomplishments
 What did the Project Team get done during the Sprint?
