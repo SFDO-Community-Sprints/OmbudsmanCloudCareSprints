@@ -1,43 +1,57 @@
 ### Project Name
 Ombudsman Cloud Care
 
+"Do what you can, with what you have, where you are." ~Theodore Roosevelt
+
 ### Project Theme
-Ombudsman Cloud Care (OCC) is an Open Source Commons project and a released package. The GitHub repo for the package is [here](https://github.com/SFDO-Community/OmbudsmanCloudCare). This sprint group/project is for adding to that app by writing documentation, suggesting and building roadmap items, etc.
+Welcome Everyone! Ombudsman Cloud Care (OCC) is an Open Source Commons project and a released package. Thank you for volunteering to bring your passion, experience, and technical know-how to the Ombudsman Cloud Care (OCC) project. Your voice is crucial and no contribution is too small. Teamwork makes the dreamwork!
+
+Goals:
+  
+1. Refresh Training Scripts & Videos - 8 skill-based videos
+  
+2. Update Installation Instructions & Tips Documentation - Release 1.2.0
+  
+3. Create Experience Cloud Documentation - Optional Family Portal with 8 sections  
 
 ### Project Vertical
 OCC is for use by military ombudsman groups, the volunteers that support military families during deployment.
 
-### Hub Group Link
+### OCC GitHub Repo
+[SFDO-Community/OmbudsmanCloudCare](https://github.com/SFDO-Community/OmbudsmanCloudCare)
+
+### OCC Power of Us Hub Group
+[Community Project - Ombudsman Cloud Care:]
+
 https://powerofus.force.com/s/group/0F91E0000000hq1SAA/community-project-ombudsman-cloud-care
 
-### Current Project Team
+### Steering Committee/Tiger Team
 [Mary Crozier](https://powerofus.force.com/s/profile/0051E00000GYcPYQA1), Founder
-
-[Shelley Bolt](https://powerofus.force.com/s/profile/0051E000003jsuzQAA), Salesforce Admin+Ombudsman Success
 
 [Michael Kolodner](https://powerofus.force.com/s/profile/00580000009bjBJAAY), App Architect
 
+[Shelley Bolt](https://powerofus.force.com/s/profile/0051E000003jsuzQAA), Salesforce Admin+Ombudsman Success
+
+### Project Team
 [Katie Bianco Hernandez](https://powerofus.force.com/s/profile/0051E00000GYmx7QAD)
 
 [Nick Lindberg](https://powerofus.force.com/s/profile/00580000006BbyJAAS)
 
-### Past Project Team Members
+[Brittany Dickerson]
 
+[Laura Etzler]
 
+[Liz McCormick]
 
-### Project Vision (Please make this your first task as a team)
+### Feb '21 SFDO Sprint Volunteers
+[Scribe:]
 
-Let people know what the value and intended benefits of your project are. The most successful projects will have an extremely clear and well-articulated vision. Answer these questions before you start talking about solutions:
-* What is the big problem that your project is trying to solve?
-* Who will be using your project?
-* A year from now, how do you see people describing your project?
+[Participants:]
 
-Use these questions to form a clear vision statement of 3-5 sentences (rough guideline). 
+### OCC Community-Driven Vision
+OCC is an Open Source Commons application, built by community volunteers to handle Navy Ombudsman (volunteer) needs during crisis and day-to-day operations. With Ombudsman Cloud Care, Ombudsmen have access to a modern, secure, cloud-based case management and a collaboration solution so they will be ready for the regular challenges of deployment and the extraordinary stresses of future crises. 
 
-Having trouble? Salesforce.org staff and your fellow sprinters are here to help! Use one of your table's request signs and/or post in the Quip Chat to seek help, and we'll pop by.
-
-
-### Project Resources (It's ok if you'd prefer to type all the things in Google docs, Quip, or your word processor of choice, just please make sure you include links to your work here in Github. We need a source of truth, and for now that's here in GitHub.)
+### Documentation
 [OCC Documentation Table of Contents](https://occadminhandbook.bit.ai/docs/view/K9FMWpJOOUACb8T2)
 
 [Handbook](https://occadminhandbook.bit.ai/docs/view/zv0wSuubp84Vnzsq)
@@ -46,14 +60,45 @@ Having trouble? Salesforce.org staff and your fellow sprinters are here to help!
 
 [Presentation/White Paper](https://drive.google.com/file/d/1J1ZFsZ2pZaGdE3lKT_NPUxL1KmibO0h1/view?usp=sharing)
 
+[OCC Package Repo](https://github.com/SFDO-Community/OmbudsmanCloudCare)
+
+[OCC Power of Us Hub Community](https://powerofus.force.com/PUBlogin?ec=302&startURL=%2Fs%2Fgroup%2F0F91E0000000hq1SAA%2Fcommunity-project-ombudsman-cloud-care)
+
+Listen to OCC Founder, Mary Crozier on the [Salesforce Admin Podcast](https://admin.salesforce.com/blog/2020/ombudsman-cloud-care-with-mary-crozier)
+
+
 ### Project Team Accomplishments
-What did the Project Team get done during the Sprint?
+[OCC AppExchange Release: 1.2.0 on January 29, 2021](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000OMs0uEAD)
 
-### Future Contributions (AKA what were you unable to finish at the Sprint)
-Often, it takes multiple Sprints to contribute an idea back into the Community. What happens at a Sprint does not stay at a Sprint! If someone were to contribute to this project at the next Sprint what would you want them to work on to move this project forward?<br>
+[OCC AppExchange Listing on August 18, 2020](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000OMs0uEAD&utm_medium=email&utm_source=newsletter&utm_medium=email&utm_campaign=appex_weekly-newsletter&eid=ss-appex-nl)
 
-* What types of team roles does this project require? This gives you a way to tell future volunteers what kinds of tasks you need help with to complete this project. For example: Do you need a developer, documentation writer, qa tester, thought-leader, general volunteers, etc.
+### Roadmap for Future Development
+Examples of what we are planning to develop include:
 
-* What is your project's Roadmap?
+  • Custom object for use as knowledge base that can be exposed on an Experience Site (object tentatively named Resource).
+  
+  • Web to Case form for families to request help (available on Experience Site.
+  
+  • Email to Case for families to request help.
+  
+  • Web to Lead form that allows family to input information about their sailor, who probably hasn't yet been created in Salesforce.
+  
+  • Further development of reports an dashboards for ombudsman use and reporting to Command Leadership and central Ombudsman Registry.
+  
+  • Solution (has to be 100% free) for customer satisfaction survey and the like. 
 
-**Important**: If you have specific asks to help move this project forward we would recommend that you list them here, but also create separate Issues for each and add the label of "help wanted". This is a well-worn best practice for projects living in GitHub.
+### Use Considerations
+This app is being developed for a very particular “market”: Ombudsman groups supporting Navy commands. In the current form we have made the specific design decision that this will be a Navy-specific app (hence the Sailor__c object) rather than generalizing out to other services. Should the need and/or interest arise from ombudsman-equivalents in the other US services, we foresee creating service-specific products instead of trying to abstract or generalize the current product. That will allow the terminology and other design decisions to be service-specific.
+
+In addition, it should be noted that Navy ombudsmen are volunteers. Though they are organized, trained, and overseen by the command structure they support, they do not have a budget for services nor are the ombudsmen themselves paid. Therefore, one of the main considerations in the development of Ombudsman Cloud Care is that the solution must be absolutely zero cost. Each command ombudsman group will need to apply for a Power of Us license grant, working with a related eligible 501c3 or 501c4 organization to use their eligibility for a Salesforce instance. In many cases this will be the Family Readiness Group (FRG), but some commands without an FRG may need to find other partners. Admin support for each command is expected to come from the Salesforce Military community. Support for the OCC app, responses to questions, etc will come primarily through the OCC Power of Us Hub group. Users and admins of OCC orgs will be strongly encouraged to join the Power of Us Hub and follow the OCC group.
+
+### Development
+To work on this project in a scratch org:
+
+1. [Set up CumulusCI](https://cumulusci.readthedocs.io/en/latest/tutorial.html)
+
+2. Run cci flow run dev_org --org dev to deploy this project.
+
+3. Run cci org browser dev to open the org in your browser.
+
+### Thank You For Your Awesome Support
