@@ -18,14 +18,10 @@ Goals:
 OCC is for use by military ombudsman groups, the volunteers that support military families during deployment.
 
 ### OCC GitHub Repo
-SFDO-Community/OmbudsmanCloudCare:
-
-https://github.com/SFDO-Community/OmbudsmanCloudCare
+[SFDO-Community/OmbudsmanCloudCare](https://github.com/SFDO-Community/OmbudsmanCloudCare)
 
 ### OCC Power of Us Hub Group
-Community Project - Ombudsman Cloud Care:
-
-https://powerofus.force.com/s/group/0F91E0000000hq1SAA/community-project-ombudsman-cloud-care
+[Community Project - Ombudsman Cloud Care](https://powerofus.force.com/s/group/0F91E0000000hq1SAA/community-project-ombudsman-cloud-care)
 
 ### Steering Committee/Tiger Team
 [Mary Crozier](https://powerofus.force.com/s/profile/0051E00000GYcPYQA1), Founder
@@ -39,9 +35,9 @@ https://powerofus.force.com/s/group/0F91E0000000hq1SAA/community-project-ombudsm
 
 [Nick Lindberg](https://powerofus.force.com/s/profile/00580000006BbyJAAS)
 
-Brittany Dickerson
-
 Laura Etzler
+
+Brittany Dickinson
 
 Liz McCormick
 
@@ -63,8 +59,6 @@ OCC is an Open Source Commons application, built by community volunteers to hand
 [Presentation/White Paper](https://drive.google.com/file/d/1J1ZFsZ2pZaGdE3lKT_NPUxL1KmibO0h1/view?usp=sharing)
 
 [OCC Package Repo](https://github.com/SFDO-Community/OmbudsmanCloudCare)
-
-[OCC Power of Us Hub Community](https://powerofus.force.com/PUBlogin?ec=302&startURL=%2Fs%2Fgroup%2F0F91E0000000hq1SAA%2Fcommunity-project-ombudsman-cloud-care)
 
 Listen to OCC Founder, Mary Crozier on the [Salesforce Admin Podcast](https://admin.salesforce.com/blog/2020/ombudsman-cloud-care-with-mary-crozier)
 
