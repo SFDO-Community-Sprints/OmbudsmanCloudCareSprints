@@ -6,13 +6,13 @@ Ombudsman Cloud Care
 ### Project Theme
 Welcome Everyone! Ombudsman Cloud Care (OCC) is an Open Source Commons project and a released package. Thank you for volunteering to bring your passion, experience, and technical know-how to the Ombudsman Cloud Care (OCC) project. Your voice is crucial and no contribution is too small. Teamwork makes the dreamwork!
 
-Goals:
+### How You Can Help
   
 1. Refresh Training Scripts & Videos - 8 skill-based videos
   
 2. Update Installation Instructions & Tips Documentation - Release 1.2.0
   
-3. Create Experience Cloud Documentation - Optional Family Portal with 8 sections  
+3. Create Experience Cloud Documentation - Optional Family Portal 
 
 ### Project Vertical
 OCC is for use by military ombudsman groups, the volunteers that support military families during deployment.
