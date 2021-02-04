@@ -18,10 +18,12 @@ Goals:
 OCC is for use by military ombudsman groups, the volunteers that support military families during deployment.
 
 ### OCC GitHub Repo
-[SFDO-Community/OmbudsmanCloudCare](https://github.com/SFDO-Community/OmbudsmanCloudCare)
+SFDO-Community/OmbudsmanCloudCare:
+
+https://github.com/SFDO-Community/OmbudsmanCloudCare
 
 ### OCC Power of Us Hub Group
-[Community Project - Ombudsman Cloud Care:]
+Community Project - Ombudsman Cloud Care:
 
 https://powerofus.force.com/s/group/0F91E0000000hq1SAA/community-project-ombudsman-cloud-care
 
@@ -37,16 +39,16 @@ https://powerofus.force.com/s/group/0F91E0000000hq1SAA/community-project-ombudsm
 
 [Nick Lindberg](https://powerofus.force.com/s/profile/00580000006BbyJAAS)
 
-[Brittany Dickerson]
+Brittany Dickerson
 
-[Laura Etzler]
+Laura Etzler
 
-[Liz McCormick]
+Liz McCormick
 
 ### Feb '21 SFDO Sprint Volunteers
-[Scribe:]
+Scribe:
 
-[Participants:]
+Participants:
 
 ### OCC Community-Driven Vision
 OCC is an Open Source Commons application, built by community volunteers to handle Navy Ombudsman (volunteer) needs during crisis and day-to-day operations. With Ombudsman Cloud Care, Ombudsmen have access to a modern, secure, cloud-based case management and a collaboration solution so they will be ready for the regular challenges of deployment and the extraordinary stresses of future crises. 
