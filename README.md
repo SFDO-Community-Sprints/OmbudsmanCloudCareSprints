@@ -37,7 +37,7 @@ OCC is for use by military ombudsman groups, the volunteers that support militar
 
 Laura Etzler
 
-Brittany Dickinson
+Brittany Dickerson
 
 Liz McCormick
 
