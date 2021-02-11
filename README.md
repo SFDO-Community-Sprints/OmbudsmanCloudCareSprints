@@ -42,7 +42,7 @@ Brittany Dickerson
 Liz McCormick
 
 ### Feb '21 SFDO Sprint Volunteers
-Participants: Michael Kolodner, Shelley Bolt, Laura Etzler, Liz McCormick, Dennis Markunas, Kathy Olney, Allison Roscoe, Bill Florio, and Sprinty
+Participants: Michael Kolodner, Shelley Bolt, Laura Etzler, Liz McCormick, Dennis Markunas, Kathy Olney, Allison Roscoe, Bill Florio, Rodney Zhu, and Sprinty
 
 ### OCC Community-Driven Vision
 OCC is an Open Source Commons application, built by community volunteers to handle Navy Ombudsman (volunteer) needs during crisis and day-to-day operations. With Ombudsman Cloud Care, Ombudsmen have access to a modern, secure, cloud-based case management and a collaboration solution so they will be ready for the regular challenges of deployment and the extraordinary stresses of future crises. 
