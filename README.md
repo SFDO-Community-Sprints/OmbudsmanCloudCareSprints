@@ -6,7 +6,7 @@ Ombudsman Cloud Care
 ### Project Theme
 Welcome Everyone! Ombudsman Cloud Care (OCC) is an Open Source Commons project and a released package. Thank you for volunteering to bring your passion, experience, and technical know-how to the Ombudsman Cloud Care (OCC) project. Your voice is crucial and no contribution is too small. Teamwork makes the dreamwork!
 
-### How You Can Help
+### Feb'21 Sprint Goals
   
 1. Refresh Training Scripts & Videos - 8 skill-based videos
   
@@ -42,9 +42,7 @@ Brittany Dickerson
 Liz McCormick
 
 ### Feb '21 SFDO Sprint Volunteers
-Scribe:
-
-Participants:
+Participants: Michael Kolodner, Shelley Bolt, Laura Etzler, Liz McCormick, Dennis Markunas, Kathy Olney, Allison Roscoe, Bill Florio, and Sprinty
 
 ### OCC Community-Driven Vision
 OCC is an Open Source Commons application, built by community volunteers to handle Navy Ombudsman (volunteer) needs during crisis and day-to-day operations. With Ombudsman Cloud Care, Ombudsmen have access to a modern, secure, cloud-based case management and a collaboration solution so they will be ready for the regular challenges of deployment and the extraordinary stresses of future crises. 
@@ -64,6 +62,18 @@ Listen to OCC Founder, Mary Crozier on the [Salesforce Admin Podcast](https://ad
 
 
 ### Project Team Accomplishments
+Feb'21 Sprint Accomplishments
+
+1. Updated and tested Release 1.2.0 Installation Instructions.
+
+2. Updated (9) scripts to support new App Release 1.2.0
+
+3. Recorded OCC Metéchō Demo. Presented by Michael Kolodner.  
+
+4. Updated Experience Cloud Documentation to align with Spring '21 Release. Hello Experience Cloud, Farewell Community Cloud.
+
+5. Most importantly, welcomed new community volunteers to the community-driven OCC Team.
+
 [OCC AppExchange Release: 1.2.0 on January 29, 2021](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000OMs0uEAD)
 
 [OCC AppExchange Listing on August 18, 2020](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000OMs0uEAD&utm_medium=email&utm_source=newsletter&utm_medium=email&utm_campaign=appex_weekly-newsletter&eid=ss-appex-nl)
