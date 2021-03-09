@@ -6,13 +6,17 @@ Ombudsman Cloud Care
 ### Project Theme
 Welcome Everyone! Ombudsman Cloud Care (OCC) is an Open Source Commons project and a released package. Thank you for volunteering to bring your passion, experience, and technical know-how to the Ombudsman Cloud Care (OCC) project. Your voice is crucial and no contribution is too small. Teamwork makes the dreamwork!
 
-### Feb'21 Sprint Goals
+### March 26, 2021 Virtual Mini-Sprint: Metrics Strategy Project
   
-1. Refresh Training Scripts & Videos - 8 skill-based videos
-  
-2. Update Installation Instructions & Tips Documentation - Release 1.2.0
-  
-3. Create Experience Cloud Documentation - Optional Family Portal 
+Report on the impact of using the OCC app has had on Ombudsman. Everyone is welcome to attend! Experience in Reporting, Dashboards, Flow, and impact measurement overall are a bonus.
+
+1. Develop KPI's (Key Performance Indicators) around Ombudsman success
+
+2. Develop methods for retrieving data from individual orgs
+
+3. Create a strategy for reporting on the data we gather from the various orgs
+
+OCC Mini-Sprint Event Registration Link: https://bit.ly/38j9EYn
 
 ### Project Vertical
 OCC is for use by military ombudsman groups, the volunteers that support military families during deployment.
@@ -31,7 +35,6 @@ OCC is for use by military ombudsman groups, the volunteers that support militar
 [Shelley Bolt](https://powerofus.force.com/s/profile/0051E000003jsuzQAA), Salesforce Admin+Ombudsman Success
 
 ### Project Team
-[Katie Bianco Hernandez](https://powerofus.force.com/s/profile/0051E00000GYmx7QAD)
 
 [Nick Lindberg](https://powerofus.force.com/s/profile/00580000006BbyJAAS)
 
