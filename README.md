@@ -6,9 +6,12 @@ Ombudsman Cloud Care
 ### Project Theme
 Welcome Everyone! Ombudsman Cloud Care (OCC) is an Open Source Commons project and a released package. Thank you for volunteering to bring your passion, experience, and technical know-how to the Ombudsman Cloud Care (OCC) project. Your voice is crucial and no contribution is too small. Teamwork makes the dreamwork!
 
-### March 26, 2021 Virtual Mini-Sprint: Metrics Strategy Project
+### March 26, 2021 Virtual Mini-Sprint: What is Impact? How do we measure it?
   
-Report on the impact of using the OCC app has had on Ombudsman. Everyone is welcome to attend! Experience in Reporting, Dashboards, Flow, and impact measurement overall are a bonus.
+Pleaes join us as we learn how to develop outputs, outcomes and impact from SFDO Impact Management Professionals.
+
+[We highly recommend this new Trailhead Trail: Acclerate Your Mission with Impact Management](https://trailhead.salesforce.com/en/content/learn/trails/accelerate-your-mission-with-impact-management) 
+
 
 1. Develop KPI's (Key Performance Indicators) around Ombudsman success
 
