@@ -6,21 +6,6 @@ Ombudsman Cloud Care
 ### Project Theme
 Welcome Everyone! Ombudsman Cloud Care (OCC) is an Open Source Commons project and a released package. Thank you for volunteering to bring your passion, experience, and technical know-how to the Ombudsman Cloud Care (OCC) project. Your voice is crucial and no contribution is too small. Teamwork makes the dreamwork!
 
-### March 26, 2021 Virtual Mini-Sprint: What is Impact? How do we measure it?
-  
-Pleaes join us as we learn how to develop outputs, outcomes and impact from SFDO Impact Management Professionals.
-
-[We highly recommend this new Trailhead Trail: Acclerate Your Mission with Impact Management](https://trailhead.salesforce.com/en/content/learn/trails/accelerate-your-mission-with-impact-management) 
-
-
-1. Develop KPI's (Key Performance Indicators) around Ombudsman success
-
-2. Develop methods for retrieving data from individual orgs
-
-3. Create a strategy for reporting on the data we gather from the various orgs
-
-OCC Mini-Sprint Event Registration Link: https://bit.ly/38j9EYn
-
 ### Project Vertical
 OCC is for use by military ombudsman groups, the volunteers that support military families during deployment.
 
@@ -47,8 +32,12 @@ Brittany Dickerson
 
 Liz McCormick
 
+### Mar '21 Mini Sprint Volunteers
+Special thanks to Impact Management experts: Morgan Buras-Finlay and Andrew Means.
+Participants: Michael Kolodner, Mary Crozier, Nick Linberg, Shelley Bolt, Laura Etzler, Liz McCormick, Bill Corkhill, Jason Rochester.
+
 ### Feb '21 SFDO Sprint Volunteers
-Participants: Michael Kolodner, Shelley Bolt, Laura Etzler, Liz McCormick, Dennis Markunas, Kathy Olney, Allison Roscoe, Bill Florio, Rodney Zhu, Akhilesh Reddy, and Sprinty
+Participants: Michael Kolodner, Shelley Bolt, Laura Etzler, Liz McCormick, Dennis Markunas, Kathy Olney, Allison Roscoe, Bill Florio, Rodney Zhu, Akhilesh Reddy, and Sprinty.
 
 ### OCC Community-Driven Vision
 OCC is an Open Source Commons application, built by community volunteers to handle Navy Ombudsman (volunteer) needs during crisis and day-to-day operations. With Ombudsman Cloud Care, Ombudsmen have access to a modern, secure, cloud-based case management and a collaboration solution so they will be ready for the regular challenges of deployment and the extraordinary stresses of future crises. 
@@ -68,6 +57,18 @@ Listen to OCC Founder, Mary Crozier on the [Salesforce Admin Podcast](https://ad
 
 
 ### Project Team Accomplishments
+Mar '21 Mini Sprint Accomplishments
+
+What is impact? How do you measure it?
+
+1. Defined our core whys.
+
+2. Explored KPIs. What matters? What is meaningful?
+
+3. Examined impact. How are people better off?
+
+4. Planned strategy. Tactical tools, design, collection, and repository.
+
 Feb'21 Sprint Accomplishments
 
 1. Updated and tested Release 1.2.0 Installation Instructions.
