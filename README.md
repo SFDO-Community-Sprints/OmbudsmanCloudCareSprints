@@ -32,6 +32,9 @@ Brittany Dickerson
 
 Liz McCormick
 
+### May '21 Mini Sprint Volunteers
+Participants: Michael Kolodner, Mary Crozier, Nick Linberg, Shelley Bolt, Laura Etzler, Joanah Gacuya.
+
 ### Mar '21 Mini Sprint Volunteers
 Special thanks to Impact Management experts: Morgan Buras-Finlay and Andrew Means.
 Participants: Michael Kolodner, Mary Crozier, Nick Linberg, Shelley Bolt, Laura Etzler, Liz McCormick, Bill Corkhill, Jason Rochester.
@@ -57,6 +60,13 @@ Listen to OCC Founder, Mary Crozier on the [Salesforce Admin Podcast](https://ad
 
 
 ### Project Team Accomplishments
+May '21 Mini Sprint Accomplishments
+
+1. Metéchō tasks to develop, test and merge branches for Release 1.3
+
+2. Roadmap for Future Development: Case and Lead Lifecycle Reports, Impact Data Strategy (tools, design, collection, repository)
+
+
 Mar '21 Mini Sprint Accomplishments
 
 What is impact? How do you measure it?
@@ -96,9 +106,13 @@ Examples of what we are planning to develop include:
   
   • Web to Lead form that allows family to input information about their sailor, who probably hasn't yet been created in Salesforce.
   
-  • Further development of reports an dashboards for ombudsman use and reporting to Command Leadership and central Ombudsman Registry.
+  • Further development of reports and dashboards for ombudsman use and reporting to Command Leadership and central Ombudsman Registry.
   
   • Solution (has to be 100% free) for customer satisfaction survey and the like. 
+  
+  • Case and Lead Lifecycle reports and dashboards
+  
+  • Impact Data Strategy (tools, design, collection, repository)
 
 ### Use Considerations
 This app is being developed for a very particular “market”: Ombudsman groups supporting Navy commands. In the current form we have made the specific design decision that this will be a Navy-specific app (hence the Sailor__c object) rather than generalizing out to other services. Should the need and/or interest arise from ombudsman-equivalents in the other US services, we foresee creating service-specific products instead of trying to abstract or generalize the current product. That will allow the terminology and other design decisions to be service-specific.
