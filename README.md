@@ -32,6 +32,8 @@ Brittany Dickerson
 
 Liz McCormick
 
+Joanah Gacuya
+
 ### May '21 Mini Sprint Volunteers
 Participants: Michael Kolodner, Mary Crozier, Nick Linberg, Shelley Bolt, Laura Etzler, Joanah Gacuya.
 
@@ -64,7 +66,7 @@ May '21 Mini Sprint Accomplishments
 
 1. Metéchō tasks to develop, test and merge branches for Release 1.3
 
-2. Roadmap for Future Development: Case and Lead Lifecycle Reports, Impact Data Strategy (tools, design, collection, repository)
+2. Roadmap for Future Development: Case and Lead Lifecycle Reports, Impact Data Strategy (tactical: tools, design, collection, repository)
 
 
 Mar '21 Mini Sprint Accomplishments
@@ -112,7 +114,7 @@ Examples of what we are planning to develop include:
   
   • Case and Lead Lifecycle reports and dashboards
   
-  • Impact Data Strategy (tools, design, collection, repository)
+  • Impact Data Strategy (tactical: tools, design, collection, repository)
 
 ### Use Considerations
 This app is being developed for a very particular “market”: Ombudsman groups supporting Navy commands. In the current form we have made the specific design decision that this will be a Navy-specific app (hence the Sailor__c object) rather than generalizing out to other services. Should the need and/or interest arise from ombudsman-equivalents in the other US services, we foresee creating service-specific products instead of trying to abstract or generalize the current product. That will allow the terminology and other design decisions to be service-specific.
@@ -127,5 +129,14 @@ To work on this project in a scratch org:
 2. Run cci flow run dev_org --org dev to deploy this project.
 
 3. Run cci org browser dev to open the org in your browser.
+
+To work on this project in Metéchō in a scratch org:
+
+1. [Metéchō demo](https://vimeo.com/511284044), password: epic
+
+2. Request to be added as a collaborator
+
+3. Create scratch org > Add a task > Assign as Developer or Tester > Review > Merge
+ 
 
 ### Thank You For Your Awesome Support
